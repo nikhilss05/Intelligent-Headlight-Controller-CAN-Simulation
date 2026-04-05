@@ -184,13 +184,3 @@ Toggle the **"Simulate data corruption"** checkbox to randomly flip bits in Byte
 
 This project is developed for academic purposes as part of the Automotive Electronics course (23ECPE16) at Coimbatore Institute of Technology.
 
----
-
-## 👥 Team
-
-| Name | Register Number |
-|------|-----------------|
-| Student Name 1 | Reg. No. 1 |
-| Student Name 2 | Reg. No. 2 |
-| Student Name 3 | Reg. No. 3 |
-| Student Name 4 | Reg. No. 4 |
